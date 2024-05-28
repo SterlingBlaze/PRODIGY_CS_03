@@ -13,4 +13,4 @@ This Python script assesses the strength of a password based on various criteria
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/SterlingBlaze/PRODIGY_CS_03.git
